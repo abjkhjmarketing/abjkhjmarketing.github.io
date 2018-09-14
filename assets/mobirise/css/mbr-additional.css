@@ -1386,6 +1386,9 @@ body {
 .cid-r3xjg7n37g .mbr-section-subtitle {
   font-style: italic;
 }
+.cid-r3xjg7n37g H1 {
+  color: #149dcc;
+}
 .cid-r3DBPb504N .navbar {
   padding: .5rem 0;
   background: #ffffff;
@@ -1780,6 +1783,10 @@ body {
 }
 .cid-r3DHYK6JUl .mbr-section-subtitle {
   font-style: italic;
+}
+.cid-r3DHYK6JUl P {
+  text-align: center;
+  color: #149dcc;
 }
 .cid-r3DLiPlHJe {
   padding-top: 90px;
